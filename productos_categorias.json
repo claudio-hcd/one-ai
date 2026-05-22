@@ -1,362 +1,362 @@
-[
-    {
-        "nombre": "Arroz Tucapel",
-        "precio": 1500,
-        "descripcion": "Arroz grano largo ideal para preparaciones diarias.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Azúcar Iansa",
-        "precio": 1215,
-        "descripcion": "Azúcar granulada refinada.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Aceite Chef",
-        "precio": 2530,
-        "descripcion": "Aceite vegetal para cocinar.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Leche Colun",
-        "precio": 1145,
-        "descripcion": "Leche entera líquida.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Pan de molde Ideal",
-        "precio": 2060,
-        "descripcion": "Pan envasado fresco.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Fideos Carozzi",
-        "precio": 975,
-        "descripcion": "Pasta de trigo tipo espagueti.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Lentejas Lucchetti",
-        "precio": 1890,
-        "descripcion": "Legumbre rica en proteínas.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Porotos negros Banquete",
-        "precio": 2005,
-        "descripcion": "Porotos seleccionados.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Harina Mont Blanc",
-        "precio": 1120,
-        "descripcion": "Harina para múltiples usos.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Sal Lobos",
-        "precio": 935,
-        "descripcion": "Sal de mesa yodada.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Arroz Tucapel",
-        "precio": 1650,
-        "descripcion": "Arroz grano largo ideal para preparaciones diarias.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Azúcar Iansa",
-        "precio": 1365,
-        "descripcion": "Azúcar granulada refinada.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Aceite Chef",
-        "precio": 2680,
-        "descripcion": "Aceite vegetal para cocinar.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Leche Colun",
-        "precio": 1295,
-        "descripcion": "Leche entera líquida.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Pan de molde Ideal",
-        "precio": 2210,
-        "descripcion": "Pan envasado fresco.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Fideos Carozzi",
-        "precio": 1125,
-        "descripcion": "Pasta de trigo tipo espagueti.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Lentejas Lucchetti",
-        "precio": 2040,
-        "descripcion": "Legumbre rica en proteínas.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Porotos negros Banquete",
-        "precio": 2155,
-        "descripcion": "Porotos seleccionados.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Harina Mont Blanc",
-        "precio": 1270,
-        "descripcion": "Harina para múltiples usos.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Sal Lobos",
-        "precio": 1085,
-        "descripcion": "Sal de mesa yodada.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Arroz Tucapel",
-        "precio": 1800,
-        "descripcion": "Arroz grano largo ideal para preparaciones diarias.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Azúcar Iansa",
-        "precio": 1515,
-        "descripcion": "Azúcar granulada refinada.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Aceite Chef",
-        "precio": 2830,
-        "descripcion": "Aceite vegetal para cocinar.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Leche Colun",
-        "precio": 1445,
-        "descripcion": "Leche entera líquida.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Pan de molde Ideal",
-        "precio": 2360,
-        "descripcion": "Pan envasado fresco.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Fideos Carozzi",
-        "precio": 1275,
-        "descripcion": "Pasta de trigo tipo espagueti.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Lentejas Lucchetti",
-        "precio": 2190,
-        "descripcion": "Legumbre rica en proteínas.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Porotos negros Banquete",
-        "precio": 2305,
-        "descripcion": "Porotos seleccionados.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Harina Mont Blanc",
-        "precio": 1420,
-        "descripcion": "Harina para múltiples usos.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Sal Lobos",
-        "precio": 1235,
-        "descripcion": "Sal de mesa yodada.",
-        "categoria": "Canasta Básica"
-    },
-    {
-        "nombre": "Smartphone Samsung",
-        "precio": 250000,
-        "descripcion": "Teléfono inteligente Android.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Laptop Lenovo",
-        "precio": 552000,
-        "descripcion": "Laptop para trabajo y estudio.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Audífonos Sony",
-        "precio": 124000,
-        "descripcion": "Audífonos inalámbricos.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Tablet Huawei",
-        "precio": 226000,
-        "descripcion": "Dispositivo portátil multimedia.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Mouse Logitech",
-        "precio": 23000,
-        "descripcion": "Mouse inalámbrico.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Teclado Redragon",
-        "precio": 40000,
-        "descripcion": "Teclado mecánico.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Monitor LG",
-        "precio": 192000,
-        "descripcion": "Monitor Full HD.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "SSD Kingston",
-        "precio": 74000,
-        "descripcion": "Unidad de almacenamiento rápido.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Cargador Anker",
-        "precio": 36000,
-        "descripcion": "Cargador USB rápido.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Smartwatch Xiaomi",
-        "precio": 68000,
-        "descripcion": "Reloj inteligente.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Smartphone Samsung",
-        "precio": 270000,
-        "descripcion": "Teléfono inteligente Android.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Laptop Lenovo",
-        "precio": 572000,
-        "descripcion": "Laptop para trabajo y estudio.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Audífonos Sony",
-        "precio": 144000,
-        "descripcion": "Audífonos inalámbricos.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Tablet Huawei",
-        "precio": 246000,
-        "descripcion": "Dispositivo portátil multimedia.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Mouse Logitech",
-        "precio": 43000,
-        "descripcion": "Mouse inalámbrico.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Teclado Redragon",
-        "precio": 60000,
-        "descripcion": "Teclado mecánico.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Monitor LG",
-        "precio": 212000,
-        "descripcion": "Monitor Full HD.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "SSD Kingston",
-        "precio": 94000,
-        "descripcion": "Unidad de almacenamiento rápido.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Cargador Anker",
-        "precio": 56000,
-        "descripcion": "Cargador USB rápido.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Smartwatch Xiaomi",
-        "precio": 88000,
-        "descripcion": "Reloj inteligente.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Smartphone Samsung",
-        "precio": 290000,
-        "descripcion": "Teléfono inteligente Android.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Laptop Lenovo",
-        "precio": 592000,
-        "descripcion": "Laptop para trabajo y estudio.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Audífonos Sony",
-        "precio": 164000,
-        "descripcion": "Audífonos inalámbricos.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Tablet Huawei",
-        "precio": 266000,
-        "descripcion": "Dispositivo portátil multimedia.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Mouse Logitech",
-        "precio": 63000,
-        "descripcion": "Mouse inalámbrico.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Teclado Redragon",
-        "precio": 80000,
-        "descripcion": "Teclado mecánico.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Monitor LG",
-        "precio": 232000,
-        "descripcion": "Monitor Full HD.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "SSD Kingston",
-        "precio": 114000,
-        "descripcion": "Unidad de almacenamiento rápido.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Cargador Anker",
-        "precio": 76000,
-        "descripcion": "Cargador USB rápido.",
-        "categoria": "Electrónica"
-    },
-    {
-        "nombre": "Smartwatch Xiaomi",
-        "precio": 108000,
-        "descripcion": "Reloj inteligente.",
-        "categoria": "Electrónica"
-    }
+
+    
+        nombre: Arroz Tucapel
+        precio: 1500
+        descripcion: Arroz grano largo ideal para preparaciones diarias.
+        categoria: Canasta Básica
+    
+    
+        nombre: Azúcar Iansa
+        precio: 1215
+        descripcion: Azúcar granulada refinada.
+        categoria: Canasta Básica
+    
+    
+        nombre: Aceite Chef
+        precio: 2530
+        descripcion: Aceite vegetal para cocinar.
+        categoria: Canasta Básica
+    
+    
+        nombre: Leche Colun
+        precio: 1145
+        descripcion: Leche entera líquida.
+        categoria: Canasta Básica
+    
+    
+        nombre: Pan de molde Ideal
+        precio: 2060
+        descripcion: Pan envasado fresco.
+        categoria: Canasta Básica
+    
+    
+        nombre: Fideos Carozzi
+        precio: 975
+        descripcion: Pasta de trigo tipo espagueti.
+        categoria: Canasta Básica
+    
+    
+        nombre: Lentejas Lucchetti
+        precio: 1890
+        descripcion: Legumbre rica en proteínas.
+        categoria: Canasta Básica
+    
+    
+        nombre: Porotos negros Banquete
+        precio: 2005
+        descripcion: Porotos seleccionados.
+        categoria: Canasta Básica
+    
+    
+        nombre: Harina Mont Blanc
+        precio: 1120
+        descripcion: Harina para múltiples usos.
+        categoria: Canasta Básica
+    
+    
+        nombre: Sal Lobos
+        precio: 935
+        descripcion: Sal de mesa yodada.
+        categoria: Canasta Básica
+    
+    
+        nombre: Arroz Tucapel
+        precio: 1650
+        descripcion: Arroz grano largo ideal para preparaciones diarias.
+        categoria: Canasta Básica
+    
+    
+        nombre: Azúcar Iansa
+        precio: 1365
+        descripcion: Azúcar granulada refinada.
+        categoria: Canasta Básica
+    
+    
+        nombre: Aceite Chef
+        precio: 2680
+        descripcion: Aceite vegetal para cocinar.
+        categoria: Canasta Básica
+    
+    
+        nombre: Leche Colun
+        precio: 1295
+        descripcion: Leche entera líquida.
+        categoria: Canasta Básica
+    
+    
+        nombre: Pan de molde Ideal
+        precio: 2210
+        descripcion: Pan envasado fresco.
+        categoria: Canasta Básica
+    
+    
+        nombre: Fideos Carozzi
+        precio: 1125
+        descripcion: Pasta de trigo tipo espagueti.
+        categoria: Canasta Básica
+    
+    
+        nombre: Lentejas Lucchetti
+        precio: 2040
+        descripcion: Legumbre rica en proteínas.
+        categoria: Canasta Básica
+    
+    
+        nombre: Porotos negros Banquete
+        precio: 2155
+        descripcion: Porotos seleccionados.
+        categoria: Canasta Básica
+    
+    
+        nombre: Harina Mont Blanc
+        precio: 1270
+        descripcion: Harina para múltiples usos.
+        categoria: Canasta Básica
+    
+    
+        nombre: Sal Lobos
+        precio: 1085
+        descripcion: Sal de mesa yodada.
+        categoria: Canasta Básica
+    
+    
+        nombre: Arroz Tucapel
+        precio: 1800
+        descripcion: Arroz grano largo ideal para preparaciones diarias.
+        categoria: Canasta Básica
+    
+    
+        nombre: Azúcar Iansa
+        precio: 1515
+        descripcion: Azúcar granulada refinada.
+        categoria: Canasta Básica
+    
+    
+        nombre: Aceite Chef
+        precio: 2830
+        descripcion: Aceite vegetal para cocinar.
+        categoria: Canasta Básica
+    
+    
+        nombre: Leche Colun
+        precio: 1445
+        descripcion: Leche entera líquida.
+        categoria: Canasta Básica
+    
+    
+        nombre: Pan de molde Ideal
+        precio: 2360
+        descripcion: Pan envasado fresco.
+        categoria: Canasta Básica
+    
+    
+        nombre: Fideos Carozzi
+        precio: 1275
+        descripcion: Pasta de trigo tipo espagueti.
+        categoria: Canasta Básica
+    
+    
+        nombre: Lentejas Lucchetti
+        precio: 2190
+        descripcion: Legumbre rica en proteínas.
+        categoria: Canasta Básica
+    
+    
+        nombre: Porotos negros Banquete
+        precio: 2305
+        descripcion: Porotos seleccionados.
+        categoria: Canasta Básica
+    
+    
+        nombre: Harina Mont Blanc
+        precio: 1420
+        descripcion: Harina para múltiples usos.
+        categoria: Canasta Básica
+    
+    
+        nombre: Sal Lobos
+        precio: 1235
+        descripcion: Sal de mesa yodada.
+        categoria: Canasta Básica
+    
+    
+        nombre: Smartphone Samsung
+        precio: 250000
+        descripcion: Teléfono inteligente Android.
+        categoria: Electrónica
+    
+    
+        nombre: Laptop Lenovo
+        precio: 552000
+        descripcion: Laptop para trabajo y estudio.
+        categoria: Electrónica
+    
+    
+        nombre: Audífonos Sony
+        precio: 124000
+        descripcion: Audífonos inalámbricos.
+        categoria: Electrónica
+    
+    
+        nombre: Tablet Huawei
+        precio: 226000
+        descripcion: Dispositivo portátil multimedia.
+        categoria: Electrónica
+    
+    
+        nombre: Mouse Logitech
+        precio: 23000
+        descripcion: Mouse inalámbrico.
+        categoria: Electrónica
+    
+    
+        nombre: Teclado Redragon
+        precio: 40000
+        descripcion: Teclado mecánico.
+        categoria: Electrónica
+    
+    
+        nombre: Monitor LG
+        precio: 192000
+        descripcion: Monitor Full HD.
+        categoria: Electrónica
+    
+    
+        nombre: SSD Kingston
+        precio: 74000
+        descripcion: Unidad de almacenamiento rápido.
+        categoria: Electrónica
+    
+    
+        nombre: Cargador Anker
+        precio: 36000
+        descripcion: Cargador USB rápido.
+        categoria: Electrónica
+    
+    
+        nombre: Smartwatch Xiaomi
+        precio: 68000
+        descripcion: Reloj inteligente.
+        categoria: Electrónica
+    
+    
+        nombre: Smartphone Samsung
+        precio: 270000
+        descripcion: Teléfono inteligente Android.
+        categoria: Electrónica
+    
+    
+        nombre: Laptop Lenovo
+        precio: 572000
+        descripcion: Laptop para trabajo y estudio.
+        categoria: Electrónica
+    
+    
+        nombre: Audífonos Sony
+        precio: 144000
+        descripcion: Audífonos inalámbricos.
+        categoria: Electrónica
+    
+    
+        nombre: Tablet Huawei
+        precio: 246000
+        descripcion: Dispositivo portátil multimedia.
+        categoria: Electrónica
+    
+    
+        nombre: Mouse Logitech
+        precio: 43000
+        descripcion: Mouse inalámbrico.
+        categoria: Electrónica
+    
+    
+        nombre: Teclado Redragon
+        precio: 60000
+        descripcion: Teclado mecánico.
+        categoria: Electrónica
+    
+    
+        nombre: Monitor LG
+        precio: 212000
+        descripcion: Monitor Full HD.
+        categoria: Electrónica
+    
+    
+        nombre: SSD Kingston
+        precio: 94000
+        descripcion: Unidad de almacenamiento rápido.
+        categoria: Electrónica
+    
+    
+        nombre: Cargador Anker
+        precio: 56000
+        descripcion: Cargador USB rápido.
+        categoria: Electrónica
+    
+    
+        nombre: Smartwatch Xiaomi
+        precio: 88000
+        descripcion: Reloj inteligente.
+        categoria: Electrónica
+    
+    
+        nombre: Smartphone Samsung
+        precio: 290000
+        descripcion: Teléfono inteligente Android.
+        categoria: Electrónica
+    
+    
+        nombre: Laptop Lenovo
+        precio: 592000
+        descripcion: Laptop para trabajo y estudio.
+        categoria: Electrónica
+    
+    
+        nombre: Audífonos Sony
+        precio: 164000
+        descripcion: Audífonos inalámbricos.
+        categoria: Electrónica
+    
+    
+        nombre: Tablet Huawei
+        precio: 266000
+        descripcion: Dispositivo portátil multimedia.
+        categoria: Electrónica
+    
+    
+        nombre: Mouse Logitech
+        precio: 63000
+        descripcion: Mouse inalámbrico.
+        categoria: Electrónica
+    
+    
+        nombre: Teclado Redragon
+        precio: 80000
+        descripcion: Teclado mecánico.
+        categoria: Electrónica
+    
+    
+        nombre: Monitor LG
+        precio: 232000
+        descripcion: Monitor Full HD.
+        categoria: Electrónica
+    
+    
+        nombre: SSD Kingston
+        precio: 114000
+        descripcion: Unidad de almacenamiento rápido.
+        categoria: Electrónica
+    
+    
+        nombre: Cargador Anker
+        precio: 76000
+        descripcion: Cargador USB rápido.
+        categoria: Electrónica
+    
+    
+        nombre: Smartwatch Xiaomi
+        precio: 108000
+        descripcion: Reloj inteligente.
+        categoria: Electrónica
+    
 ]
