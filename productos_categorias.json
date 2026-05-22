@@ -1,0 +1,362 @@
+[
+    {
+        "nombre": "Arroz Tucapel 1",
+        "precio": 1500,
+        "descripcion": "Arroz grano largo ideal para preparaciones diarias.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Azúcar Iansa 2",
+        "precio": 1215,
+        "descripcion": "Azúcar granulada refinada.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Aceite Chef 3",
+        "precio": 2530,
+        "descripcion": "Aceite vegetal para cocinar.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Leche Colun 4",
+        "precio": 1145,
+        "descripcion": "Leche entera líquida.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Pan de molde Ideal 5",
+        "precio": 2060,
+        "descripcion": "Pan envasado fresco.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Fideos Carozzi 6",
+        "precio": 975,
+        "descripcion": "Pasta de trigo tipo espagueti.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Lentejas Lucchetti 7",
+        "precio": 1890,
+        "descripcion": "Legumbre rica en proteínas.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Porotos negros Banquete 8",
+        "precio": 2005,
+        "descripcion": "Porotos seleccionados.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Harina Mont Blanc 9",
+        "precio": 1120,
+        "descripcion": "Harina para múltiples usos.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Sal Lobos 10",
+        "precio": 935,
+        "descripcion": "Sal de mesa yodada.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Arroz Tucapel 11",
+        "precio": 1650,
+        "descripcion": "Arroz grano largo ideal para preparaciones diarias.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Azúcar Iansa 12",
+        "precio": 1365,
+        "descripcion": "Azúcar granulada refinada.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Aceite Chef 13",
+        "precio": 2680,
+        "descripcion": "Aceite vegetal para cocinar.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Leche Colun 14",
+        "precio": 1295,
+        "descripcion": "Leche entera líquida.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Pan de molde Ideal 15",
+        "precio": 2210,
+        "descripcion": "Pan envasado fresco.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Fideos Carozzi 16",
+        "precio": 1125,
+        "descripcion": "Pasta de trigo tipo espagueti.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Lentejas Lucchetti 17",
+        "precio": 2040,
+        "descripcion": "Legumbre rica en proteínas.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Porotos negros Banquete 18",
+        "precio": 2155,
+        "descripcion": "Porotos seleccionados.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Harina Mont Blanc 19",
+        "precio": 1270,
+        "descripcion": "Harina para múltiples usos.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Sal Lobos 20",
+        "precio": 1085,
+        "descripcion": "Sal de mesa yodada.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Arroz Tucapel 21",
+        "precio": 1800,
+        "descripcion": "Arroz grano largo ideal para preparaciones diarias.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Azúcar Iansa 22",
+        "precio": 1515,
+        "descripcion": "Azúcar granulada refinada.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Aceite Chef 23",
+        "precio": 2830,
+        "descripcion": "Aceite vegetal para cocinar.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Leche Colun 24",
+        "precio": 1445,
+        "descripcion": "Leche entera líquida.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Pan de molde Ideal 25",
+        "precio": 2360,
+        "descripcion": "Pan envasado fresco.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Fideos Carozzi 26",
+        "precio": 1275,
+        "descripcion": "Pasta de trigo tipo espagueti.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Lentejas Lucchetti 27",
+        "precio": 2190,
+        "descripcion": "Legumbre rica en proteínas.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Porotos negros Banquete 28",
+        "precio": 2305,
+        "descripcion": "Porotos seleccionados.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Harina Mont Blanc 29",
+        "precio": 1420,
+        "descripcion": "Harina para múltiples usos.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Sal Lobos 30",
+        "precio": 1235,
+        "descripcion": "Sal de mesa yodada.",
+        "categoria": "Canasta Básica"
+    },
+    {
+        "nombre": "Smartphone Samsung 1",
+        "precio": 250000,
+        "descripcion": "Teléfono inteligente Android.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Laptop Lenovo 2",
+        "precio": 552000,
+        "descripcion": "Laptop para trabajo y estudio.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Audífonos Sony 3",
+        "precio": 124000,
+        "descripcion": "Audífonos inalámbricos.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Tablet Huawei 4",
+        "precio": 226000,
+        "descripcion": "Dispositivo portátil multimedia.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Mouse Logitech 5",
+        "precio": 23000,
+        "descripcion": "Mouse inalámbrico.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Teclado Redragon 6",
+        "precio": 40000,
+        "descripcion": "Teclado mecánico.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Monitor LG 7",
+        "precio": 192000,
+        "descripcion": "Monitor Full HD.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "SSD Kingston 8",
+        "precio": 74000,
+        "descripcion": "Unidad de almacenamiento rápido.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Cargador Anker 9",
+        "precio": 36000,
+        "descripcion": "Cargador USB rápido.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Smartwatch Xiaomi 10",
+        "precio": 68000,
+        "descripcion": "Reloj inteligente.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Smartphone Samsung 11",
+        "precio": 270000,
+        "descripcion": "Teléfono inteligente Android.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Laptop Lenovo 12",
+        "precio": 572000,
+        "descripcion": "Laptop para trabajo y estudio.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Audífonos Sony 13",
+        "precio": 144000,
+        "descripcion": "Audífonos inalámbricos.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Tablet Huawei 14",
+        "precio": 246000,
+        "descripcion": "Dispositivo portátil multimedia.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Mouse Logitech 15",
+        "precio": 43000,
+        "descripcion": "Mouse inalámbrico.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Teclado Redragon 16",
+        "precio": 60000,
+        "descripcion": "Teclado mecánico.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Monitor LG 17",
+        "precio": 212000,
+        "descripcion": "Monitor Full HD.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "SSD Kingston 18",
+        "precio": 94000,
+        "descripcion": "Unidad de almacenamiento rápido.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Cargador Anker 19",
+        "precio": 56000,
+        "descripcion": "Cargador USB rápido.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Smartwatch Xiaomi 20",
+        "precio": 88000,
+        "descripcion": "Reloj inteligente.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Smartphone Samsung 21",
+        "precio": 290000,
+        "descripcion": "Teléfono inteligente Android.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Laptop Lenovo 22",
+        "precio": 592000,
+        "descripcion": "Laptop para trabajo y estudio.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Audífonos Sony 23",
+        "precio": 164000,
+        "descripcion": "Audífonos inalámbricos.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Tablet Huawei 24",
+        "precio": 266000,
+        "descripcion": "Dispositivo portátil multimedia.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Mouse Logitech 25",
+        "precio": 63000,
+        "descripcion": "Mouse inalámbrico.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Teclado Redragon 26",
+        "precio": 80000,
+        "descripcion": "Teclado mecánico.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Monitor LG 27",
+        "precio": 232000,
+        "descripcion": "Monitor Full HD.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "SSD Kingston 28",
+        "precio": 114000,
+        "descripcion": "Unidad de almacenamiento rápido.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Cargador Anker 29",
+        "precio": 76000,
+        "descripcion": "Cargador USB rápido.",
+        "categoria": "Electrónica"
+    },
+    {
+        "nombre": "Smartwatch Xiaomi 30",
+        "precio": 108000,
+        "descripcion": "Reloj inteligente.",
+        "categoria": "Electrónica"
+    }
+]
